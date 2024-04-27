@@ -1,0 +1,25 @@
+body{
+    background-color: #250057;
+}
+.input-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+    width: 90%;
+    max-width: 500px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 300px auto;
+}
+.input-box input{
+    width: 100%;
+    padding: 10px 0;
+    border: 0;
+    outline: 0;
+    color: #555;
+    font-size: 18px;
+}
+img{
+    cursor: pointer;
+}
